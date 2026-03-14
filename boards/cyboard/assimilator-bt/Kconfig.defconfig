@@ -4,7 +4,6 @@ if BOARD_ASSIMILATOR_BT
 
 config BOARD
     default "assimilator-bt"
-    select ZMK_BOARD_COMPAT
 
 if USB_DEVICE_STACK
 
